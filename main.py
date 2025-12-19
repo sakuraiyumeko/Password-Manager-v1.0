@@ -148,24 +148,6 @@ def check_password(cuser):
 
 def change_password(cuser):
     print(f"Haven't completed yet,{cuser}")
-    #parts=check(cuser)
-    #tag=input("Which do you want to change?")
-    #if tag == "":
-    #    print("Can't be none")
-    #    return
-    #elif parts[0] == tag:
-    #    types=input("""
-    #    ----------------------------
-    #    What do you want to change?
-    #    1.Name
-    #    2.Account
-    #    3.Password
-    #    4.Note
-    #    ----------------------------
-    #    """)
-    #    if types == "":
-    #        print("Can't be none")
-    #    elif types == "1" or "name" or "Name":
 
 def options():
     print("""
@@ -220,5 +202,6 @@ def main():
         else:
             status1 = 0
             continue
+
 
 main()
