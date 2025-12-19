@@ -18,7 +18,7 @@ This program is a lightweight ultility designed for multi-user password manageme
 3. Register an account
 4. Enjoy your time
 
-## Roadmap
+## to-do
 - [ ] Data Migration: Transition from `.txt` to `.JSON` for structured data management
 - [ ] UI: Add a Graphical User Interface(GUI) in browser
 - [ ] Security Enhancement: Encrypted Data Storage
